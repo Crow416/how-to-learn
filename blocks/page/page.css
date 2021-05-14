@@ -1,0 +1,10 @@
+@import url(./header/header.css);
+@import url(./content/content.css);
+@import url(./footer/footer.css);
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Inter', Arial, sans-serif;
+}
