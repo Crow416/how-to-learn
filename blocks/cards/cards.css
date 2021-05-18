@@ -3,4 +3,6 @@
   display: flex;
   flex-wrap: wrap;
   margin: auto;
+  list-style-type: none;
+  padding-left: 0;
 }

@@ -5,6 +5,6 @@
   margin: 0;
 }
 
-.table__text:nth-child(2) {
-  margin-bottom: 20px;
+.table__text:nth-child(3) {
+  margin-top: 20px;
 }
