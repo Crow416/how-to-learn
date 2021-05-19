@@ -4,4 +4,5 @@
   background-size: 867px 637px;
   padding-top: 100px;
   position: relative;
+  box-sizing: border-box;
 }
